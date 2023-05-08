@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="21a6f6f8-2387-4cd1-8fbd-929bdae4a0ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW01/HW01_1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW01/HW01_3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW01/HW01_4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW01/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_Exceptions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="21a6f6f8-2387-4cd1-8fbd-929bdae4a0ab" name="Changes" comment="add files whith HW01">
+      <change afterPath="$PROJECT_DIR$/HW01/HW01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW01/HW01_1/HW01_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW01/HW01_3/HW01_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW01/HW01_4/HW01_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW02/HW02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW02/HW02_01/HW02_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW02/HW02_01/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW02/HW02_02/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW02/HW02_03/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW02/HW02_04/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW02/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PSdZLpbPzdifDxGt4qRBQPcU5F" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -34,17 +42,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "corretto-11"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="HW01_3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="HW01_4" />
@@ -52,18 +54,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HW02_04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HW02_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HW02_03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="HW01_1" />
+      <module name="HW02_02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -76,6 +101,18 @@
       <option name="presentableId" value="Default" />
       <updated>1683454472330</updated>
     </task>
+    <task id="LOCAL-00001" summary="add files whith HW01">
+      <created>1683454863229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683454863229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add files whith HW01" />
+    <option name="LAST_COMMIT_MESSAGE" value="add files whith HW01" />
   </component>
 </project>
